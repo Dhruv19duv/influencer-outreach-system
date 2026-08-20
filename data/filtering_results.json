@@ -1,0 +1,3820 @@
+{
+  "metadata": {
+    "total_processed": 55,
+    "passed": 55,
+    "failed": 0,
+    "filter_timestamp": "2026-08-20T10:26:22.107840",
+    "filter_config": {
+      "min_followers": 5000,
+      "max_followers": 100000,
+      "min_engagement": 1.5,
+      "preferred_niches": [
+        "Fashion",
+        "Beauty",
+        "Lifestyle"
+      ],
+      "preferred_platforms": [
+        "Instagram",
+        "YouTube"
+      ]
+    }
+  },
+  "passed_influencers": [
+    {
+      "name": "Aisha Thomas",
+      "username": "the.aisha.world",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/the.aisha.world",
+      "followers": 8030,
+      "engagement_rate": 4.69,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Capsule wardrobe",
+        "Accessory styling"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "United States",
+      "posts_per_week": 7,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 8742,
+      "avg_likes": 376,
+      "avg_comments": 33,
+      "discovery_timestamp": "2026-08-20T10:26:21.795895",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 8,030 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.69%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United States, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    },
+    {
+      "name": "Olivia Lopez",
+      "username": "oliviaxlife",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/oliviaxlife",
+      "followers": 34614,
+      "engagement_rate": 2.16,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "OOTD posts",
+        "Seasonal trends"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "South Korea",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 35427,
+      "avg_likes": 747,
+      "avg_comments": 40,
+      "discovery_timestamp": "2026-08-20T10:26:21.795895",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 34,614 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.16%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: South Korea, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 85.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 85.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Ethan Sato",
+      "username": "ethanxdaily",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/ethanxdaily",
+      "followers": 12843,
+      "engagement_rate": 7.38,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Streetwear",
+        "Sustainable fashion"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 5,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 12567,
+      "avg_likes": 947,
+      "avg_comments": 61,
+      "discovery_timestamp": "2026-08-20T10:26:21.795895",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 12,843 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 7.38%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Kai Jackson",
+      "username": "the.kai.world",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/the.kai.world",
+      "followers": 95139,
+      "engagement_rate": 2.72,
+      "niche": "Fashion",
+      "content_themes": [
+        "Seasonal trends",
+        "OOTD posts",
+        "Designer dupes"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Germany",
+      "posts_per_week": 12,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 95227,
+      "avg_likes": 2587,
+      "avg_comments": 372,
+      "discovery_timestamp": "2026-08-20T10:26:21.795895",
+      "discovery_method": "hashtag_search: #ootd",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 95,139 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 2.72%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Germany, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Zara Thompson",
+      "username": "zara702",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/zara702",
+      "followers": 37914,
+      "engagement_rate": 4.56,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Streetwear",
+        "Thrift hauls"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Nigeria",
+      "posts_per_week": 3,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 38706,
+      "avg_likes": 1728,
+      "avg_comments": 169,
+      "discovery_timestamp": "2026-08-20T10:26:21.795895",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 37,914 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.56%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Nigeria, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Mei Ahmed",
+      "username": "mei.shares",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/mei.shares",
+      "followers": 22057,
+      "engagement_rate": 2.11,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Designer dupes",
+        "Streetwear"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Brazil",
+      "posts_per_week": 12,
+      "verified": true,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 21838,
+      "avg_likes": 465,
+      "avg_comments": 29,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 22,057 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.11%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Brazil, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 89.2,
+        "recommended_collaboration": "Barter collaboration",
+        "reasoning": "Overall score: 89.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: Barter collaboration."
+      }
+    },
+    {
+      "name": "Leila Thomas",
+      "username": "leilaxxlife",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/leilaxxlife",
+      "followers": 42433,
+      "engagement_rate": 4.15,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Seasonal trends",
+        "Streetwear"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Indonesia",
+      "posts_per_week": 3,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 44329,
+      "avg_likes": 1760,
+      "avg_comments": 212,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 42,433 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.15%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Indonesia, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Sophia Sato",
+      "username": "the.sophia.space",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/the.sophia.space",
+      "followers": 10620,
+      "engagement_rate": 6.45,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Accessory styling",
+        "Streetwear"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Europe",
+      "posts_per_week": 11,
+      "verified": true,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Date night outfit ideas",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 12506,
+      "avg_likes": 684,
+      "avg_comments": 49,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 10,620 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.45%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Europe, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 96.7,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 96.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Oliver Taylor",
+      "username": "oliver_life",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/oliver_life",
+      "followers": 10283,
+      "engagement_rate": 5.7,
+      "niche": "Fashion",
+      "content_themes": [
+        "Streetwear",
+        "Vintage finds",
+        "Capsule wardrobe"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 5,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Date night outfit ideas",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 10051,
+      "avg_likes": 586,
+      "avg_comments": 43,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 10,283 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 5.7%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Sophia Thompson",
+      "username": "sophiaxdaily",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/sophiaxdaily",
+      "followers": 30088,
+      "engagement_rate": 3.93,
+      "niche": "Fashion",
+      "content_themes": [
+        "Budget fashion",
+        "Designer dupes",
+        "Streetwear"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "United States",
+      "posts_per_week": 12,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 29703,
+      "avg_likes": 1182,
+      "avg_comments": 159,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 30,088 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.93%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United States, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 93.3,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 93.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Logan Garcia",
+      "username": "logan_official",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/logan_official",
+      "followers": 39144,
+      "engagement_rate": 3.37,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Vintage finds",
+        "Designer dupes"
+      ],
+      "audience_age": "35-44",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Nigeria",
+      "posts_per_week": 13,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 39748,
+      "avg_likes": 1319,
+      "avg_comments": 111,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #ootd",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 39,144 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.37%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Strong audience fit (geo: Nigeria, age: 35-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 88.3,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 88.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Aisha Lee",
+      "username": "aisha243",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/aisha243",
+      "followers": 51258,
+      "engagement_rate": 1.84,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Streetwear",
+        "Thrift hauls"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "India",
+      "posts_per_week": 9,
+      "verified": true,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 50880,
+      "avg_likes": 943,
+      "avg_comments": 64,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 51,258 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 1.84%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: India, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Lucia Okafor",
+      "username": "lucia.creates",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/lucia.creates",
+      "followers": 40184,
+      "engagement_rate": 2.72,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Streetwear",
+        "Sustainable fashion"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Brazil",
+      "posts_per_week": 11,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 41428,
+      "avg_likes": 1093,
+      "avg_comments": 82,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 40,184 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 2.72%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Brazil, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 89.2,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 89.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Elijah Taylor",
+      "username": "elijah21",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/elijah21",
+      "followers": 6536,
+      "engagement_rate": 7.0,
+      "niche": "Fashion",
+      "content_themes": [
+        "Budget fashion",
+        "Vintage finds",
+        "Streetwear"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "North America",
+      "posts_per_week": 14,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 8229,
+      "avg_likes": 457,
+      "avg_comments": 59,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #fashionblogger",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 6,536 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 7.0%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: North America, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Charlotte Williams",
+      "username": "the.charlotte.corner",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/the.charlotte.corner",
+      "followers": 13965,
+      "engagement_rate": 6.48,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "Designer dupes",
+        "Vintage finds"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "France",
+      "posts_per_week": 6,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Sustainable fashion brands to try",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 13778,
+      "avg_likes": 904,
+      "avg_comments": 79,
+      "discovery_timestamp": "2026-08-20T10:26:21.796708",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 13,965 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.48%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: France, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Isabella Johnson",
+      "username": "isabella.creates",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@isabella.creates",
+      "followers": 33602,
+      "engagement_rate": 4.89,
+      "niche": "Fashion",
+      "content_themes": [
+        "Seasonal trends",
+        "Vintage finds",
+        "Designer dupes"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Indonesia",
+      "posts_per_week": 13,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 35167,
+      "avg_likes": 1643,
+      "avg_comments": 159,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #ootd",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 33,602 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.89%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Indonesia, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 91.7,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 91.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Mason Miller",
+      "username": "mason.blogs",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@mason.blogs",
+      "followers": 10324,
+      "engagement_rate": 4.47,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Seasonal trends",
+        "Vintage finds"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 7,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 10440,
+      "avg_likes": 461,
+      "avg_comments": 48,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 10,324 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.47%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    },
+    {
+      "name": "Alexander Nguyen",
+      "username": "alexander242",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@alexander242",
+      "followers": 39449,
+      "engagement_rate": 4.12,
+      "niche": "Fashion",
+      "content_themes": [
+        "OOTD posts",
+        "Thrift hauls",
+        "Streetwear"
+      ],
+      "audience_age": "35-44",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Europe",
+      "posts_per_week": 5,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 39312,
+      "avg_likes": 1625,
+      "avg_comments": 228,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 39,449 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.12%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Strong audience fit (geo: Europe, age: 35-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 95.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 95.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Isabella Thompson",
+      "username": "isabella.blogs",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@isabella.blogs",
+      "followers": 16944,
+      "engagement_rate": 5.47,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Sustainable fashion",
+        "Designer dupes"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "United States",
+      "posts_per_week": 5,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 17837,
+      "avg_likes": 926,
+      "avg_comments": 117,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashionblogger",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 16,944 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 5.47%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United States, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 95.8,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 95.8/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Yuki Rossi",
+      "username": "yuki.creates",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@yuki.creates",
+      "followers": 99496,
+      "engagement_rate": 1.92,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Sustainable fashion",
+        "Budget fashion"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "France",
+      "posts_per_week": 12,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 100729,
+      "avg_likes": 1910,
+      "avg_comments": 103,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #ootd",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 99,496 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 1.92%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: France, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Olivia Jackson",
+      "username": "olivia_official",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@olivia_official",
+      "followers": 36333,
+      "engagement_rate": 4.98,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "OOTD posts",
+        "Seasonal trends"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "France",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 36247,
+      "avg_likes": 1809,
+      "avg_comments": 105,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 36,333 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.98%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: France, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Noah Wilson",
+      "username": "noahxxofficial",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@noahxxofficial",
+      "followers": 25241,
+      "engagement_rate": 4.81,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Budget fashion",
+        "Accessory styling"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "India",
+      "posts_per_week": 12,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Thrift store haul under $50",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 26171,
+      "avg_likes": 1214,
+      "avg_comments": 77,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 25,241 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.81%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: India, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 91.7,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 91.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    },
+    {
+      "name": "Alexander Garcia",
+      "username": "alexander45",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@alexander45",
+      "followers": 7321,
+      "engagement_rate": 4.93,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Budget fashion",
+        "Seasonal trends"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Nigeria",
+      "posts_per_week": 7,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 8966,
+      "avg_likes": 360,
+      "avg_comments": 18,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 7,321 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.93%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Nigeria, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    },
+    {
+      "name": "Liam Rossi",
+      "username": "the.liam.world",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@the.liam.world",
+      "followers": 48909,
+      "engagement_rate": 3.74,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "OOTD posts",
+        "Vintage finds"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Global",
+      "posts_per_week": 10,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 50695,
+      "avg_likes": 1829,
+      "avg_comments": 264,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 48,909 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.74%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Strong audience fit (geo: Global, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 91.7,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 91.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Sarah Anderson",
+      "username": "sarah388",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@sarah388",
+      "followers": 41397,
+      "engagement_rate": 2.24,
+      "niche": "Fashion",
+      "content_themes": [
+        "Seasonal trends",
+        "Vintage finds",
+        "Thrift hauls"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 8,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 42655,
+      "avg_likes": 927,
+      "avg_comments": 80,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 41,397 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.24%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 86.7,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 86.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Ethan Patel",
+      "username": "ethan.blogs",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@ethan.blogs",
+      "followers": 63739,
+      "engagement_rate": 2.27,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Accessory styling",
+        "Budget fashion"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "France",
+      "posts_per_week": 11,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 65435,
+      "avg_likes": 1446,
+      "avg_comments": 81,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 63,739 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.27%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: France, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "William Scott",
+      "username": "williamxxdaily",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@williamxxdaily",
+      "followers": 52359,
+      "engagement_rate": 1.94,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "Streetwear",
+        "Seasonal trends"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Australia",
+      "posts_per_week": 13,
+      "verified": true,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 52319,
+      "avg_likes": 1015,
+      "avg_comments": 59,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 52,359 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 1.94%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Australia, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Liam Kim",
+      "username": "liamxdaily",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@liamxdaily",
+      "followers": 32126,
+      "engagement_rate": 4.9,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "Budget fashion",
+        "Thrift hauls"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Canada",
+      "posts_per_week": 5,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Sustainable fashion brands to try",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 32216,
+      "avg_likes": 1574,
+      "avg_comments": 135,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 32,126 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.9%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Canada, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 95.8,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 95.8/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Zara Clark",
+      "username": "the.zara.world",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@the.zara.world",
+      "followers": 22014,
+      "engagement_rate": 3.58,
+      "niche": "Fashion",
+      "content_themes": [
+        "Thrift hauls",
+        "Capsule wardrobe",
+        "OOTD posts"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 3,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 22670,
+      "avg_likes": 788,
+      "avg_comments": 45,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 22,014 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.58%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Barter collaboration",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Barter collaboration."
+      }
+    },
+    {
+      "name": "Oliver Williams",
+      "username": "oliver.lifestyle",
+      "platform": "YouTube",
+      "profile_url": "https://youtube.com/@oliver.lifestyle",
+      "followers": 11527,
+      "engagement_rate": 6.31,
+      "niche": "Fashion",
+      "content_themes": [
+        "Streetwear",
+        "Seasonal trends",
+        "Budget fashion"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Europe",
+      "posts_per_week": 11,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Summer capsule wardrobe essentials",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 12408,
+      "avg_likes": 727,
+      "avg_comments": 40,
+      "discovery_timestamp": "2026-08-20T10:26:21.897385",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 11,527 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.31%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: YouTube"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Europe, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Mateo Miller",
+      "username": "mateo538",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@mateo538",
+      "followers": 34460,
+      "engagement_rate": 3.46,
+      "niche": "Fashion",
+      "content_themes": [
+        "OOTD posts",
+        "Sustainable fashion",
+        "Accessory styling"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "South Korea",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 35594,
+      "avg_likes": 1192,
+      "avg_comments": 161,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 34,460 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.46%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: South Korea, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Standard",
+        "category": "Fashion",
+        "brand_fit_score": 84.2,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 84.2/100. Solid influencer with good potential for collaboration. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Sarah Rodriguez",
+      "username": "the.sarah.world",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@the.sarah.world",
+      "followers": 11374,
+      "engagement_rate": 5.91,
+      "niche": "Fashion",
+      "content_themes": [
+        "Budget fashion",
+        "Streetwear",
+        "Sustainable fashion"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 7,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 12438,
+      "avg_likes": 672,
+      "avg_comments": 64,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 11,374 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 5.91%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 86.7,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 86.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Zara Brown",
+      "username": "zara_official",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@zara_official",
+      "followers": 5001,
+      "engagement_rate": 6.54,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "OOTD posts",
+        "Vintage finds"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Europe",
+      "posts_per_week": 11,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Thrift store haul under $50",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 4883,
+      "avg_likes": 327,
+      "avg_comments": 41,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 5,001 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.54%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Europe, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.8,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 90.8/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Mia Davis",
+      "username": "mia_official",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@mia_official",
+      "followers": 31971,
+      "engagement_rate": 3.03,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Seasonal trends",
+        "Sustainable fashion"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "Canada",
+      "posts_per_week": 10,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Street style lookbook",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 31728,
+      "avg_likes": 968,
+      "avg_comments": 81,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 31,971 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.03%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Canada, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Leo Rossi",
+      "username": "leo.shares",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@leo.shares",
+      "followers": 9542,
+      "engagement_rate": 6.84,
+      "niche": "Fashion",
+      "content_themes": [
+        "Streetwear",
+        "Sustainable fashion",
+        "Thrift hauls"
+      ],
+      "audience_age": "35-44",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Thrift store haul under $50",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 10589,
+      "avg_likes": 652,
+      "avg_comments": 66,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 9,542 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.84%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 35-44)"
+        }
+      },
+      "classification": {
+        "tier": "Standard",
+        "category": "Fashion",
+        "brand_fit_score": 84.2,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 84.2/100. Solid influencer with good potential for collaboration. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Elijah Young",
+      "username": "elijahxxlife",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@elijahxxlife",
+      "followers": 83720,
+      "engagement_rate": 2.9,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Thrift hauls",
+        "OOTD posts"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "United Kingdom",
+      "posts_per_week": 8,
+      "verified": false,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 83680,
+      "avg_likes": 2427,
+      "avg_comments": 229,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 83,720 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 2.9%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United Kingdom, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.8,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.8/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Harper Moore",
+      "username": "harperxxlife",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@harperxxlife",
+      "followers": 7703,
+      "engagement_rate": 7.66,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Streetwear",
+        "Designer dupes"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Europe",
+      "posts_per_week": 13,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 9641,
+      "avg_likes": 590,
+      "avg_comments": 88,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashionblogger",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 7,703 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 7.66%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Europe, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.8,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 90.8/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Noah Anderson",
+      "username": "noah.shares",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@noah.shares",
+      "followers": 8154,
+      "engagement_rate": 6.29,
+      "niche": "Fashion",
+      "content_themes": [
+        "Thrift hauls",
+        "Streetwear",
+        "Seasonal trends"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Indonesia",
+      "posts_per_week": 9,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 9969,
+      "avg_likes": 512,
+      "avg_comments": 62,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashionblogger",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 8,154 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.29%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Indonesia, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 86.7,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 86.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Sofia Fernandez",
+      "username": "sofiaxofficial",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@sofiaxofficial",
+      "followers": 60264,
+      "engagement_rate": 2.87,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Accessory styling",
+        "Vintage finds"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Nigeria",
+      "posts_per_week": 4,
+      "verified": true,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Street style lookbook",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 61163,
+      "avg_likes": 1729,
+      "avg_comments": 248,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #streetstyle",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 60,264 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 2.87%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Good content quality indicators (score: 90)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Nigeria, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Yuki Rossi",
+      "username": "yuki118",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@yuki118",
+      "followers": 5651,
+      "engagement_rate": 7.76,
+      "niche": "Fashion",
+      "content_themes": [
+        "Vintage finds",
+        "Budget fashion",
+        "Streetwear"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "France",
+      "posts_per_week": 13,
+      "verified": true,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Summer capsule wardrobe essentials",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 6354,
+      "avg_likes": 438,
+      "avg_comments": 63,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 5,651 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 7.76%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: France, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 89.2,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 89.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Mia Young",
+      "username": "mia_life",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@mia_life",
+      "followers": 98874,
+      "engagement_rate": 2.15,
+      "niche": "Fashion",
+      "content_themes": [
+        "Budget fashion",
+        "OOTD posts",
+        "Sustainable fashion"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Europe",
+      "posts_per_week": 9,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Street style lookbook",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 99477,
+      "avg_likes": 2125,
+      "avg_comments": 304,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 98,874 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.15%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Europe, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 88.3,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 88.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Caleb Martinez",
+      "username": "caleb_life",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@caleb_life",
+      "followers": 64150,
+      "engagement_rate": 1.76,
+      "niche": "Fashion",
+      "content_themes": [
+        "Seasonal trends",
+        "Designer dupes",
+        "Vintage finds"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "Indonesia",
+      "posts_per_week": 11,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Date night outfit ideas",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 64715,
+      "avg_likes": 1129,
+      "avg_comments": 136,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 64,150 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 1.76%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Indonesia, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Standard",
+        "category": "Fashion",
+        "brand_fit_score": 84.2,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 84.2/100. Solid influencer with good potential for collaboration. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Leo Thomas",
+      "username": "leo.blogs",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@leo.blogs",
+      "followers": 15515,
+      "engagement_rate": 6.52,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Seasonal trends",
+        "Thrift hauls"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Germany",
+      "posts_per_week": 3,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Date night outfit ideas",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 15026,
+      "avg_likes": 1011,
+      "avg_comments": 134,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #fashion",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 15,515 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.52%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Germany, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 86.7,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 86.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Olivia Lee",
+      "username": "olivia_life",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@olivia_life",
+      "followers": 65376,
+      "engagement_rate": 3.43,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Accessory styling",
+        "OOTD posts"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Japan",
+      "posts_per_week": 9,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 64892,
+      "avg_likes": 2242,
+      "avg_comments": 168,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 65,376 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.43%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Japan, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 86.7,
+        "recommended_collaboration": "Sponsorship",
+        "reasoning": "Overall score: 86.7/100. High-value influencer with strong metrics across all criteria. Recommended approach: Sponsorship."
+      }
+    },
+    {
+      "name": "Alexander Nguyen",
+      "username": "alexander.blogs",
+      "platform": "TikTok",
+      "profile_url": "https://tiktok.com/@alexander.blogs",
+      "followers": 28328,
+      "engagement_rate": 4.0,
+      "niche": "Fashion",
+      "content_themes": [
+        "Budget fashion",
+        "Seasonal trends",
+        "Streetwear"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "50% Female, 50% Male",
+      "audience_geography": "United States",
+      "posts_per_week": 6,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Street style lookbook",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 29569,
+      "avg_likes": 1133,
+      "avg_comments": 103,
+      "discovery_timestamp": "2026-08-20T10:26:21.998536",
+      "discovery_method": "hashtag_search: #style",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 28,328 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.0%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Growing platform: TikTok"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United States, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 92.5,
+        "recommended_collaboration": "Barter collaboration",
+        "reasoning": "Overall score: 92.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Barter collaboration."
+      }
+    },
+    {
+      "name": "Sebastian Scott",
+      "username": "sebastian_world",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/sebastian_world",
+      "followers": 77380,
+      "engagement_rate": 2.38,
+      "niche": "Fashion",
+      "content_themes": [
+        "Streetwear",
+        "Capsule wardrobe",
+        "Designer dupes"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "Mexico",
+      "posts_per_week": 9,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Summer capsule wardrobe essentials",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 78622,
+      "avg_likes": 1841,
+      "avg_comments": 140,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Grin",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 77,380 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.38%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Mexico, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Noah Harris",
+      "username": "noah_life",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/noah_life",
+      "followers": 13434,
+      "engagement_rate": 4.67,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Thrift hauls",
+        "Vintage finds"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Asia Pacific",
+      "posts_per_week": 13,
+      "verified": true,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Summer capsule wardrobe essentials",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 14681,
+      "avg_likes": 627,
+      "avg_comments": 38,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Upfluence",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 13,434 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.67%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Asia Pacific, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 92.5,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 92.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    },
+    {
+      "name": "Olivia Williams",
+      "username": "olivia.lifestyle",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/olivia.lifestyle",
+      "followers": 76271,
+      "engagement_rate": 3.29,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Seasonal trends",
+        "Budget fashion"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "South Korea",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 77122,
+      "avg_likes": 2509,
+      "avg_comments": 157,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Aspire",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 76,271 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.29%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: South Korea, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 88.3,
+        "recommended_collaboration": "Sponsorship",
+        "reasoning": "Overall score: 88.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Sponsorship."
+      }
+    },
+    {
+      "name": "Sarah Jackson",
+      "username": "sarah.creates",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/sarah.creates",
+      "followers": 76796,
+      "engagement_rate": 2.14,
+      "niche": "Fashion",
+      "content_themes": [
+        "Sustainable fashion",
+        "Vintage finds",
+        "Capsule wardrobe"
+      ],
+      "audience_age": "18-34",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Germany",
+      "posts_per_week": 13,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Sustainable fashion brands to try",
+        "Street style lookbook",
+        "Thrift store haul under $50"
+      ],
+      "follower_count_last_month": 76797,
+      "avg_likes": 1643,
+      "avg_comments": 208,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Heepsy",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 76,796 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.14%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Germany, age: 18-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 87.5,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 87.5/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Oliver Jones",
+      "username": "oliver389",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/oliver389",
+      "followers": 7672,
+      "engagement_rate": 7.45,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Sustainable fashion",
+        "Designer dupes"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "65% Male, 35% Female",
+      "audience_geography": "Australia",
+      "posts_per_week": 13,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Street style lookbook",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 7861,
+      "avg_likes": 571,
+      "avg_comments": 83,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Upfluence",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 7,672 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 7.45%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: Australia, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "Leila Jones",
+      "username": "leila971",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/leila971",
+      "followers": 11127,
+      "engagement_rate": 6.54,
+      "niche": "Fashion",
+      "content_themes": [
+        "Streetwear",
+        "Budget fashion",
+        "Vintage finds"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "South Korea",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Thrift store haul under $50",
+        "Street style lookbook"
+      ],
+      "follower_count_last_month": 12741,
+      "avg_likes": 727,
+      "avg_comments": 94,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Collabstr",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 11,127 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 6.54%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: South Korea, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 88.3,
+        "recommended_collaboration": "UGC content creation",
+        "reasoning": "Overall score: 88.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: UGC content creation."
+      }
+    },
+    {
+      "name": "James Scott",
+      "username": "james_daily",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/james_daily",
+      "followers": 82717,
+      "engagement_rate": 2.74,
+      "niche": "Fashion",
+      "content_themes": [
+        "Capsule wardrobe",
+        "Designer dupes",
+        "Seasonal trends"
+      ],
+      "audience_age": "18-24",
+      "audience_gender": "70% Female, 30% Male",
+      "audience_geography": "South Korea",
+      "posts_per_week": 4,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Street style lookbook",
+        "Date night outfit ideas",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 84236,
+      "avg_likes": 2266,
+      "avg_comments": 123,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Heepsy",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 82,717 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 2.74%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Good content quality indicators (score: 75)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: South Korea, age: 18-24)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 88.3,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 88.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Charlotte Rodriguez",
+      "username": "the.charlotte.space",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/the.charlotte.space",
+      "followers": 94393,
+      "engagement_rate": 2.27,
+      "niche": "Fashion",
+      "content_themes": [
+        "Accessory styling",
+        "Vintage finds",
+        "Capsule wardrobe"
+      ],
+      "audience_age": "25-34",
+      "audience_gender": "60% Female, 40% Male",
+      "audience_geography": "Mexico",
+      "posts_per_week": 13,
+      "verified": true,
+      "has_business_email": false,
+      "recent_post_topics": [
+        "Thrift store haul under $50",
+        "Sustainable fashion brands to try",
+        "Date night outfit ideas"
+      ],
+      "follower_count_last_month": 95202,
+      "avg_likes": 2142,
+      "avg_comments": 147,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Aspire",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 95,
+          "reason": "Large micro-influencer with 94,393 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 70,
+          "reason": "Acceptable engagement rate: 2.27%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Good content quality indicators (score: 100)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 75,
+          "reason": "Strong audience fit (geo: Mexico, age: 25-34)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 90.0,
+        "recommended_collaboration": "Brand ambassador program",
+        "reasoning": "Overall score: 90.0/100. High-value influencer with strong metrics across all criteria. Recommended approach: Brand ambassador program."
+      }
+    },
+    {
+      "name": "Amelia Martinez",
+      "username": "amelia_vibes",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/amelia_vibes",
+      "followers": 23556,
+      "engagement_rate": 3.73,
+      "niche": "Fashion",
+      "content_themes": [
+        "Designer dupes",
+        "Streetwear",
+        "Sustainable fashion"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "United States",
+      "posts_per_week": 14,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Summer capsule wardrobe essentials",
+        "Thrift store haul under $50",
+        "Sustainable fashion brands to try"
+      ],
+      "follower_count_last_month": 25536,
+      "avg_likes": 878,
+      "avg_comments": 47,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Upfluence",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 90,
+          "reason": "Mid-range micro-influencer with 23,556 followers"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good engagement rate: 3.73%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United States, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 93.3,
+        "recommended_collaboration": "Barter collaboration",
+        "reasoning": "Overall score: 93.3/100. High-value influencer with strong metrics across all criteria. Recommended approach: Barter collaboration."
+      }
+    },
+    {
+      "name": "Ethan Harris",
+      "username": "ethan_vibes",
+      "platform": "Instagram",
+      "profile_url": "https://instagram.com/ethan_vibes",
+      "followers": 8425,
+      "engagement_rate": 4.57,
+      "niche": "Fashion",
+      "content_themes": [
+        "Seasonal trends",
+        "Budget fashion",
+        "Capsule wardrobe"
+      ],
+      "audience_age": "25-44",
+      "audience_gender": "55% Male, 45% Female",
+      "audience_geography": "United Kingdom",
+      "posts_per_week": 7,
+      "verified": false,
+      "has_business_email": true,
+      "recent_post_topics": [
+        "Date night outfit ideas",
+        "Street style lookbook",
+        "Summer capsule wardrobe essentials"
+      ],
+      "follower_count_last_month": 8192,
+      "avg_likes": 385,
+      "avg_comments": 20,
+      "discovery_timestamp": "2026-08-20T10:26:22.099545",
+      "discovery_method": "directory: Grin",
+      "filter_results": {
+        "followers": {
+          "status": "passed",
+          "score": 80,
+          "reason": "Micro-influencer with 8,425 followers (small tier)"
+        },
+        "engagement": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Excellent engagement rate: 4.57%"
+        },
+        "niche": {
+          "status": "passed",
+          "score": 100,
+          "reason": "High-priority niche: Fashion"
+        },
+        "platform": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Preferred platform: Instagram"
+        },
+        "content_quality": {
+          "status": "passed",
+          "score": 85,
+          "reason": "Good content quality indicators (score: 85)"
+        },
+        "audience_fit": {
+          "status": "passed",
+          "score": 100,
+          "reason": "Strong audience fit (geo: United Kingdom, age: 25-44)"
+        }
+      },
+      "classification": {
+        "tier": "Premium",
+        "category": "Fashion",
+        "brand_fit_score": 94.2,
+        "recommended_collaboration": "Affiliate campaign",
+        "reasoning": "Overall score: 94.2/100. High-value influencer with strong metrics across all criteria. Recommended approach: Affiliate campaign."
+      }
+    }
+  ],
+  "failed_influencers": []
+}

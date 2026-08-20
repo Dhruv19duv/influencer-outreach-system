@@ -1,0 +1,567 @@
+{
+  "metadata": {
+    "total_attempted": 55,
+    "stats": {
+      "total_attempted": 55,
+      "sent": 0,
+      "simulated": 46,
+      "failed": 2,
+      "skipped": 7,
+      "duplicates_prevented": 0
+    },
+    "simulation_mode": true,
+    "log_timestamp": "2026-08-20T10:26:22.125588"
+  },
+  "send_log": [
+    {
+      "influencer_id": "the.aisha.world",
+      "influencer_name": "Aisha Thomas",
+      "email": "aisha@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.aisha.world_20260820102622"
+    },
+    {
+      "influencer_id": "oliviaxlife",
+      "influencer_name": "Olivia Lopez",
+      "email": "olivia@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_oliviaxlife_20260820102622"
+    },
+    {
+      "influencer_id": "ethanxdaily",
+      "influencer_name": "Ethan Sato",
+      "email": "ethan@outlook.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_ethanxdaily_20260820102622"
+    },
+    {
+      "influencer_id": "the.kai.world",
+      "influencer_name": "Kai Jackson",
+      "email": "kai@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.kai.world_20260820102622"
+    },
+    {
+      "influencer_id": "zara702",
+      "influencer_name": "Zara Thompson",
+      "email": "zara.thompson@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_zara702_20260820102622"
+    },
+    {
+      "influencer_id": "mei.shares",
+      "influencer_name": "Mei Ahmed",
+      "email": "mei@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_mei.shares_20260820102622"
+    },
+    {
+      "influencer_id": "leilaxxlife",
+      "influencer_name": "Leila Thomas",
+      "email": "leila@hotmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_leilaxxlife_20260820102622"
+    },
+    {
+      "influencer_id": "the.sophia.space",
+      "influencer_name": "Sophia Sato",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "oliver_life",
+      "influencer_name": "Oliver Taylor",
+      "email": "oliverlife@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_oliver_life_20260820102622"
+    },
+    {
+      "influencer_id": "sophiaxdaily",
+      "influencer_name": "Sophia Thompson",
+      "email": "sophia@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_sophiaxdaily_20260820102622"
+    },
+    {
+      "influencer_id": "logan_official",
+      "influencer_name": "Logan Garcia",
+      "email": "logan.garcia@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_logan_official_20260820102622"
+    },
+    {
+      "influencer_id": "aisha243",
+      "influencer_name": "Aisha Lee",
+      "email": "aisha243@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_aisha243_20260820102622"
+    },
+    {
+      "influencer_id": "lucia.creates",
+      "influencer_name": "Lucia Okafor",
+      "email": "lucia@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_lucia.creates_20260820102622"
+    },
+    {
+      "influencer_id": "elijah21",
+      "influencer_name": "Elijah Taylor",
+      "email": "elijah@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_elijah21_20260820102622"
+    },
+    {
+      "influencer_id": "the.charlotte.corner",
+      "influencer_name": "Charlotte Williams",
+      "email": "charlotte@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.charlotte.corner_20260820102622"
+    },
+    {
+      "influencer_id": "isabella.creates",
+      "influencer_name": "Isabella Johnson",
+      "email": "isabella.johnson@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_isabella.creates_20260820102622"
+    },
+    {
+      "influencer_id": "mason.blogs",
+      "influencer_name": "Mason Miller",
+      "email": "mason@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_mason.blogs_20260820102622"
+    },
+    {
+      "influencer_id": "alexander242",
+      "influencer_name": "Alexander Nguyen",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "isabella.blogs",
+      "influencer_name": "Isabella Thompson",
+      "email": "isabella@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_isabella.blogs_20260820102622"
+    },
+    {
+      "influencer_id": "yuki.creates",
+      "influencer_name": "Yuki Rossi",
+      "email": "yuki.rossi@hotmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_yuki.creates_20260820102622"
+    },
+    {
+      "influencer_id": "olivia_official",
+      "influencer_name": "Olivia Jackson",
+      "email": "olivia@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_olivia_official_20260820102622"
+    },
+    {
+      "influencer_id": "noahxxofficial",
+      "influencer_name": "Noah Wilson",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "alexander45",
+      "influencer_name": "Alexander Garcia",
+      "email": "alexander@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_alexander45_20260820102622"
+    },
+    {
+      "influencer_id": "the.liam.world",
+      "influencer_name": "Liam Rossi",
+      "email": "liam.rossi@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.liam.world_20260820102622"
+    },
+    {
+      "influencer_id": "sarah388",
+      "influencer_name": "Sarah Anderson",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "ethan.blogs",
+      "influencer_name": "Ethan Patel",
+      "email": "ethan.patel@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_ethan.blogs_20260820102622"
+    },
+    {
+      "influencer_id": "williamxxdaily",
+      "influencer_name": "William Scott",
+      "email": "william.scott@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_williamxxdaily_20260820102622"
+    },
+    {
+      "influencer_id": "liamxdaily",
+      "influencer_name": "Liam Kim",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "the.zara.world",
+      "influencer_name": "Zara Clark",
+      "email": "zara@hey.com",
+      "message_type": "email",
+      "status": "failed",
+      "error": "Simulated delivery failure",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "oliver.lifestyle",
+      "influencer_name": "Oliver Williams",
+      "email": "oliver@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_oliver.lifestyle_20260820102622"
+    },
+    {
+      "influencer_id": "mateo538",
+      "influencer_name": "Mateo Miller",
+      "email": "mateo@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_mateo538_20260820102622"
+    },
+    {
+      "influencer_id": "the.sarah.world",
+      "influencer_name": "Sarah Rodriguez",
+      "email": "sarah@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.sarah.world_20260820102622"
+    },
+    {
+      "influencer_id": "zara_official",
+      "influencer_name": "Zara Brown",
+      "email": "zara@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_zara_official_20260820102622"
+    },
+    {
+      "influencer_id": "mia_official",
+      "influencer_name": "Mia Davis",
+      "email": "miaofficial@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_mia_official_20260820102622"
+    },
+    {
+      "influencer_id": "leo.shares",
+      "influencer_name": "Leo Rossi",
+      "email": "leo@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_leo.shares_20260820102622"
+    },
+    {
+      "influencer_id": "elijahxxlife",
+      "influencer_name": "Elijah Young",
+      "email": "elijah.young@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_elijahxxlife_20260820102622"
+    },
+    {
+      "influencer_id": "harperxxlife",
+      "influencer_name": "Harper Moore",
+      "email": "harper@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_harperxxlife_20260820102622"
+    },
+    {
+      "influencer_id": "noah.shares",
+      "influencer_name": "Noah Anderson",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "sofiaxofficial",
+      "influencer_name": "Sofia Fernandez",
+      "email": "sofia@hey.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_sofiaxofficial_20260820102622"
+    },
+    {
+      "influencer_id": "yuki118",
+      "influencer_name": "Yuki Rossi",
+      "email": "yuki@icloud.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_yuki118_20260820102622"
+    },
+    {
+      "influencer_id": "mia_life",
+      "influencer_name": "Mia Young",
+      "email": "mia@protonmail.com",
+      "message_type": "email",
+      "status": "failed",
+      "error": "Simulated delivery failure",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "caleb_life",
+      "influencer_name": "Caleb Martinez",
+      "email": "caleb@hotmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_caleb_life_20260820102622"
+    },
+    {
+      "influencer_id": "leo.blogs",
+      "influencer_name": "Leo Thomas",
+      "email": "Not Found",
+      "message_type": "email",
+      "status": "skipped",
+      "error": "No valid email address",
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": null
+    },
+    {
+      "influencer_id": "olivia_life",
+      "influencer_name": "Olivia Lee",
+      "email": "olivialife@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_olivia_life_20260820102622"
+    },
+    {
+      "influencer_id": "alexander.blogs",
+      "influencer_name": "Alexander Nguyen",
+      "email": "alexander@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_alexander.blogs_20260820102622"
+    },
+    {
+      "influencer_id": "sebastian_world",
+      "influencer_name": "Sebastian Scott",
+      "email": "sebastian@hotmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_sebastian_world_20260820102622"
+    },
+    {
+      "influencer_id": "noah_life",
+      "influencer_name": "Noah Harris",
+      "email": "noahlife@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_noah_life_20260820102622"
+    },
+    {
+      "influencer_id": "olivia.lifestyle",
+      "influencer_name": "Olivia Williams",
+      "email": "olivia@outlook.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_olivia.lifestyle_20260820102622"
+    },
+    {
+      "influencer_id": "sarah.creates",
+      "influencer_name": "Sarah Jackson",
+      "email": "sarah@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_sarah.creates_20260820102622"
+    },
+    {
+      "influencer_id": "oliver389",
+      "influencer_name": "Oliver Jones",
+      "email": "oliver@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_oliver389_20260820102622"
+    },
+    {
+      "influencer_id": "leila971",
+      "influencer_name": "Leila Jones",
+      "email": "leila@protonmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_leila971_20260820102622"
+    },
+    {
+      "influencer_id": "james_daily",
+      "influencer_name": "James Scott",
+      "email": "james@gmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_james_daily_20260820102622"
+    },
+    {
+      "influencer_id": "the.charlotte.space",
+      "influencer_name": "Charlotte Rodriguez",
+      "email": "charlotte.rodriguez@hotmail.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_the.charlotte.space_20260820102622"
+    },
+    {
+      "influencer_id": "amelia_vibes",
+      "influencer_name": "Amelia Martinez",
+      "email": "amelia.martinez@outlook.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_amelia_vibes_20260820102622"
+    },
+    {
+      "influencer_id": "ethan_vibes",
+      "influencer_name": "Ethan Harris",
+      "email": "ethan@yahoo.com",
+      "message_type": "email",
+      "status": "simulated",
+      "error": null,
+      "timestamp": "2026-08-20T10:26:22.125588",
+      "message_id": "sim_ethan_vibes_20260820102622"
+    }
+  ]
+}

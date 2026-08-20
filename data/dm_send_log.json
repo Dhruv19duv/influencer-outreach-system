@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "total_attempted": 55,
+    "stats": {
+      "total_attempted": 55,
+      "simulated": 0,
+      "manual_queue": 55,
+      "duplicates_prevented": 0
+    },
+    "note": "DMs are queued for manual sending due to platform restrictions",
+    "log_timestamp": "2026-08-20T10:26:22.127020"
+  },
+  "dm_queue": [
+    {
+      "influencer_id": "the.aisha.world",
+      "influencer_name": "Aisha Thomas",
+      "platform": "Instagram",
+      "dm_message": "Hey Aisha! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://instagram.com/the.aisha.world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "oliviaxlife",
+      "influencer_name": "Olivia Lopez",
+      "platform": "Instagram",
+      "dm_message": "Olivia! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/oliviaxlife",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "ethanxdaily",
+      "influencer_name": "Ethan Sato",
+      "platform": "Instagram",
+      "dm_message": "Ethan, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://instagram.com/ethanxdaily",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.kai.world",
+      "influencer_name": "Kai Jackson",
+      "platform": "Instagram",
+      "dm_message": "Hi Kai! Your Seasonal trends content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "profile_url": "https://instagram.com/the.kai.world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "zara702",
+      "influencer_name": "Zara Thompson",
+      "platform": "Instagram",
+      "dm_message": "Zara! Love what you're doing with Designer dupes. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/zara702",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "mei.shares",
+      "influencer_name": "Mei Ahmed",
+      "platform": "Instagram",
+      "dm_message": "Mei! Love what you're doing with Capsule wardrobe. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/mei.shares",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "leilaxxlife",
+      "influencer_name": "Leila Thomas",
+      "platform": "Instagram",
+      "dm_message": "Leila, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://instagram.com/leilaxxlife",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.sophia.space",
+      "influencer_name": "Sophia Sato",
+      "platform": "Instagram",
+      "dm_message": "Hi Sophia! Noticed your amazing Designer dupes content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://instagram.com/the.sophia.space",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "oliver_life",
+      "influencer_name": "Oliver Taylor",
+      "platform": "Instagram",
+      "dm_message": "Hi Oliver! Noticed your amazing Streetwear content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://instagram.com/oliver_life",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "sophiaxdaily",
+      "influencer_name": "Sophia Thompson",
+      "platform": "Instagram",
+      "dm_message": "Sophia! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/sophiaxdaily",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "logan_official",
+      "influencer_name": "Logan Garcia",
+      "platform": "Instagram",
+      "dm_message": "Logan, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://instagram.com/logan_official",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "aisha243",
+      "influencer_name": "Aisha Lee",
+      "platform": "Instagram",
+      "dm_message": "Aisha, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://instagram.com/aisha243",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "lucia.creates",
+      "influencer_name": "Lucia Okafor",
+      "platform": "Instagram",
+      "dm_message": "Hey Lucia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://instagram.com/lucia.creates",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "elijah21",
+      "influencer_name": "Elijah Taylor",
+      "platform": "Instagram",
+      "dm_message": "Elijah! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/elijah21",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.charlotte.corner",
+      "influencer_name": "Charlotte Williams",
+      "platform": "Instagram",
+      "dm_message": "Hi Charlotte! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "profile_url": "https://instagram.com/the.charlotte.corner",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "isabella.creates",
+      "influencer_name": "Isabella Johnson",
+      "platform": "YouTube",
+      "dm_message": "Hey Isabella! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://youtube.com/@isabella.creates",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "mason.blogs",
+      "influencer_name": "Mason Miller",
+      "platform": "YouTube",
+      "dm_message": "Hi Mason! Noticed your amazing Designer dupes content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://youtube.com/@mason.blogs",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "alexander242",
+      "influencer_name": "Alexander Nguyen",
+      "platform": "YouTube",
+      "dm_message": "Alexander, your OOTD posts posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://youtube.com/@alexander242",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "isabella.blogs",
+      "influencer_name": "Isabella Thompson",
+      "platform": "YouTube",
+      "dm_message": "Isabella, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://youtube.com/@isabella.blogs",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "yuki.creates",
+      "influencer_name": "Yuki Rossi",
+      "platform": "YouTube",
+      "dm_message": "Hey Yuki! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://youtube.com/@yuki.creates",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "olivia_official",
+      "influencer_name": "Olivia Jackson",
+      "platform": "YouTube",
+      "dm_message": "Olivia, your Sustainable fashion posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://youtube.com/@olivia_official",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "noahxxofficial",
+      "influencer_name": "Noah Wilson",
+      "platform": "YouTube",
+      "dm_message": "Noah! Love what you're doing with Vintage finds. We have an exciting opportunity for you ✨",
+      "profile_url": "https://youtube.com/@noahxxofficial",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "alexander45",
+      "influencer_name": "Alexander Garcia",
+      "platform": "YouTube",
+      "dm_message": "Hi Alexander! Noticed your amazing Vintage finds content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://youtube.com/@alexander45",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.liam.world",
+      "influencer_name": "Liam Rossi",
+      "platform": "YouTube",
+      "dm_message": "Hi Liam! Your Accessory styling content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "profile_url": "https://youtube.com/@the.liam.world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "sarah388",
+      "influencer_name": "Sarah Anderson",
+      "platform": "YouTube",
+      "dm_message": "Sarah, your Seasonal trends posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://youtube.com/@sarah388",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "ethan.blogs",
+      "influencer_name": "Ethan Patel",
+      "platform": "YouTube",
+      "dm_message": "Ethan, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://youtube.com/@ethan.blogs",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "williamxxdaily",
+      "influencer_name": "William Scott",
+      "platform": "YouTube",
+      "dm_message": "Hi William! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "profile_url": "https://youtube.com/@williamxxdaily",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "liamxdaily",
+      "influencer_name": "Liam Kim",
+      "platform": "YouTube",
+      "dm_message": "Liam! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "profile_url": "https://youtube.com/@liamxdaily",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.zara.world",
+      "influencer_name": "Zara Clark",
+      "platform": "YouTube",
+      "dm_message": "Hi Zara! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "profile_url": "https://youtube.com/@the.zara.world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "oliver.lifestyle",
+      "influencer_name": "Oliver Williams",
+      "platform": "YouTube",
+      "dm_message": "Hey Oliver! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://youtube.com/@oliver.lifestyle",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "mateo538",
+      "influencer_name": "Mateo Miller",
+      "platform": "TikTok",
+      "dm_message": "Hey Mateo! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://tiktok.com/@mateo538",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.sarah.world",
+      "influencer_name": "Sarah Rodriguez",
+      "platform": "TikTok",
+      "dm_message": "Sarah! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "profile_url": "https://tiktok.com/@the.sarah.world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "zara_official",
+      "influencer_name": "Zara Brown",
+      "platform": "TikTok",
+      "dm_message": "Zara! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "profile_url": "https://tiktok.com/@zara_official",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "mia_official",
+      "influencer_name": "Mia Davis",
+      "platform": "TikTok",
+      "dm_message": "Hey Mia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://tiktok.com/@mia_official",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "leo.shares",
+      "influencer_name": "Leo Rossi",
+      "platform": "TikTok",
+      "dm_message": "Hey Leo! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://tiktok.com/@leo.shares",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "elijahxxlife",
+      "influencer_name": "Elijah Young",
+      "platform": "TikTok",
+      "dm_message": "Hi Elijah! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "profile_url": "https://tiktok.com/@elijahxxlife",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "harperxxlife",
+      "influencer_name": "Harper Moore",
+      "platform": "TikTok",
+      "dm_message": "Hey Harper! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://tiktok.com/@harperxxlife",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "noah.shares",
+      "influencer_name": "Noah Anderson",
+      "platform": "TikTok",
+      "dm_message": "Noah, your Thrift hauls posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://tiktok.com/@noah.shares",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "sofiaxofficial",
+      "influencer_name": "Sofia Fernandez",
+      "platform": "TikTok",
+      "dm_message": "Hey Sofia! Love your Sustainable fashion content. We have an exciting collab opportunity - interested? 🙌",
+      "profile_url": "https://tiktok.com/@sofiaxofficial",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "yuki118",
+      "influencer_name": "Yuki Rossi",
+      "platform": "TikTok",
+      "dm_message": "Hi Yuki! Noticed your amazing Vintage finds content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://tiktok.com/@yuki118",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "mia_life",
+      "influencer_name": "Mia Young",
+      "platform": "TikTok",
+      "dm_message": "Hi Mia! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "profile_url": "https://tiktok.com/@mia_life",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "caleb_life",
+      "influencer_name": "Caleb Martinez",
+      "platform": "TikTok",
+      "dm_message": "Hi Caleb! Noticed your amazing Seasonal trends content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://tiktok.com/@caleb_life",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "leo.blogs",
+      "influencer_name": "Leo Thomas",
+      "platform": "TikTok",
+      "dm_message": "Hey Leo! Love your Capsule wardrobe content. We have an exciting collab opportunity - interested? 🙌",
+      "profile_url": "https://tiktok.com/@leo.blogs",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "olivia_life",
+      "influencer_name": "Olivia Lee",
+      "platform": "TikTok",
+      "dm_message": "Hey Olivia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://tiktok.com/@olivia_life",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "alexander.blogs",
+      "influencer_name": "Alexander Nguyen",
+      "platform": "TikTok",
+      "dm_message": "Alexander! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "profile_url": "https://tiktok.com/@alexander.blogs",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "sebastian_world",
+      "influencer_name": "Sebastian Scott",
+      "platform": "Instagram",
+      "dm_message": "Hi Sebastian! Noticed your amazing Streetwear content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://instagram.com/sebastian_world",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "noah_life",
+      "influencer_name": "Noah Harris",
+      "platform": "Instagram",
+      "dm_message": "Hi Noah! Noticed your amazing Sustainable fashion content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://instagram.com/noah_life",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "olivia.lifestyle",
+      "influencer_name": "Olivia Williams",
+      "platform": "Instagram",
+      "dm_message": "Hey Olivia! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://instagram.com/olivia.lifestyle",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "sarah.creates",
+      "influencer_name": "Sarah Jackson",
+      "platform": "Instagram",
+      "dm_message": "Hi Sarah! Your Sustainable fashion content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "profile_url": "https://instagram.com/sarah.creates",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "oliver389",
+      "influencer_name": "Oliver Jones",
+      "platform": "Instagram",
+      "dm_message": "Hey Oliver! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "profile_url": "https://instagram.com/oliver389",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "leila971",
+      "influencer_name": "Leila Jones",
+      "platform": "Instagram",
+      "dm_message": "Hey Leila! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "profile_url": "https://instagram.com/leila971",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "james_daily",
+      "influencer_name": "James Scott",
+      "platform": "Instagram",
+      "dm_message": "James, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "profile_url": "https://instagram.com/james_daily",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "the.charlotte.space",
+      "influencer_name": "Charlotte Rodriguez",
+      "platform": "Instagram",
+      "dm_message": "Charlotte! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/the.charlotte.space",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "amelia_vibes",
+      "influencer_name": "Amelia Martinez",
+      "platform": "Instagram",
+      "dm_message": "Amelia! Love what you're doing with Designer dupes. We have an exciting opportunity for you ✨",
+      "profile_url": "https://instagram.com/amelia_vibes",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    },
+    {
+      "influencer_id": "ethan_vibes",
+      "influencer_name": "Ethan Harris",
+      "platform": "Instagram",
+      "dm_message": "Hi Ethan! Noticed your amazing Seasonal trends content. Would love to partner up! Let me know! 😊",
+      "profile_url": "https://instagram.com/ethan_vibes",
+      "status": "queued_for_manual_send",
+      "timestamp": "2026-08-20T10:26:22.127020"
+    }
+  ]
+}

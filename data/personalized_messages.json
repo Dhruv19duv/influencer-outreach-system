@@ -1,0 +1,951 @@
+{
+  "metadata": {
+    "total_messages": 55,
+    "generation_stats": {
+      "total_generated": 55,
+      "emails_generated": 55,
+      "dms_generated": 55,
+      "avg_quality_score": 99.4
+    },
+    "brand_name": "StyleCraft",
+    "brand_niche": "Fashion & Beauty",
+    "generation_timestamp": "2026-08-20T10:26:22.120459"
+  },
+  "messages": [
+    {
+      "influencer_id": "the.aisha.world",
+      "influencer_name": "Aisha Thomas",
+      "platform": "Instagram",
+      "email_subject": "Exciting Collaboration Opportunity for Aisha",
+      "email_body": "Hi Aisha,\n\nYour Designer dupes content really caught my attention - especially your recent take on Summer capsule wardrobe essentials.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe think your audience would love our products, and we'd love to set you up with an affiliate partnership, and we think it would be a natural fit for your audience.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Aisha! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Capsule wardrobe",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "oliviaxlife",
+      "influencer_name": "Olivia Lopez",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft x Olivia - Potential Collaboration",
+      "email_body": "Hi Olivia,\n\nI'm a big fan of your Accessory styling content and how you engage with your 18-24 audience.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Accessory styling content aligns perfectly with our vision.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Olivia! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, OOTD posts",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "ethanxdaily",
+      "influencer_name": "Ethan Sato",
+      "platform": "Instagram",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Ethan,\n\nYour Capsule wardrobe content really caught my attention - especially your recent take on Summer capsule wardrobe essentials.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Capsule wardrobe content aligns perfectly with our vision.\n\nWe're looking for authentic creators like you to produce ugc content for our brand, and we think it would be a natural fit for your audience.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Ethan, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "the.kai.world",
+      "influencer_name": "Kai Jackson",
+      "platform": "Instagram",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Kai,\n\nI've been enjoying your Fashion content, particularly your Seasonal trends posts.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Seasonal trends content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Kai! Your Seasonal trends content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Seasonal trends, OOTD posts",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "zara702",
+      "influencer_name": "Zara Thompson",
+      "platform": "Instagram",
+      "email_subject": "Exclusive Collaboration Invite for Zara",
+      "email_body": "Hi Zara,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Zara! Love what you're doing with Designer dupes. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "mei.shares",
+      "influencer_name": "Mei Ahmed",
+      "platform": "Instagram",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Mei,\n\nI've been enjoying your Fashion content, particularly your Capsule wardrobe posts.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Capsule wardrobe content aligns perfectly with our vision.\n\nI think a barter collaboration would be mutually beneficial - we'd love to send you our latest collection in exchange for an honest review.\n\nWould you be interested in a product-for-content collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Mei! Love what you're doing with Capsule wardrobe. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Barter collaboration",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Designer dupes",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Barter collaboration"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "leilaxxlife",
+      "influencer_name": "Leila Thomas",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Leila,\n\nI'm a big fan of your Vintage finds content and how you engage with your 25-34 audience.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Leila, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Seasonal trends",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "the.sophia.space",
+      "influencer_name": "Sophia Sato",
+      "platform": "Instagram",
+      "email_subject": "Let's Create Something Amazing Together, Sophia!",
+      "email_body": "Hi Sophia,\n\nI'm a big fan of your Designer dupes content and how you engage with your 25-44 audience.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Sophia! Noticed your amazing Designer dupes content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Accessory styling",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "oliver_life",
+      "influencer_name": "Oliver Taylor",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Oliver,\n\nI've been following your Fashion content and absolutely loved your recent post about Street style lookbook.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe're looking for authentic creators like you to produce ugc content for our brand, and we think it would be a natural fit for your audience.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Oliver! Noticed your amazing Streetwear content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Streetwear, Vintage finds",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "sophiaxdaily",
+      "influencer_name": "Sophia Thompson",
+      "platform": "Instagram",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Sophia,\n\nI've been following your Fashion content and absolutely loved your recent post about Summer capsule wardrobe essentials.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Budget fashion content aligns perfectly with our vision.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Sophia! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Budget fashion, Designer dupes",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "logan_official",
+      "influencer_name": "Logan Garcia",
+      "platform": "Instagram",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Logan,\n\nYour authentic approach to Fashion content, especially Sustainable fashion brands to try, really stands out.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Logan, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Vintage finds",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "aisha243",
+      "influencer_name": "Aisha Lee",
+      "platform": "Instagram",
+      "email_subject": "Partnership Inquiry - StyleCraft x Aisha",
+      "email_body": "Hi Aisha,\n\nI'm a big fan of your Vintage finds content and how you engage with your 25-34 audience.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Aisha, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Streetwear",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "lucia.creates",
+      "influencer_name": "Lucia Okafor",
+      "platform": "Instagram",
+      "email_subject": "Let's Create Something Amazing Together, Lucia!",
+      "email_body": "Hi Lucia,\n\nI've been enjoying your Fashion content, particularly your Vintage finds posts.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Vintage finds content aligns perfectly with our vision.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Lucia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Streetwear",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "elijah21",
+      "influencer_name": "Elijah Taylor",
+      "platform": "Instagram",
+      "email_subject": "Exclusive Collaboration Invite for Elijah",
+      "email_body": "Hi Elijah,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Budget fashion content aligns perfectly with our vision.\n\nWe're looking for authentic creators like you to produce ugc content for our brand, and we think it would be a natural fit for your audience.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Elijah! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Budget fashion, Vintage finds",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "the.charlotte.corner",
+      "influencer_name": "Charlotte Williams",
+      "platform": "Instagram",
+      "email_subject": "Exclusive Collaboration Invite for Charlotte",
+      "email_body": "Hi Charlotte,\n\nI'm a big fan of your Accessory styling content and how you engage with your 18-34 audience.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Charlotte! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, Designer dupes",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "isabella.creates",
+      "influencer_name": "Isabella Johnson",
+      "platform": "YouTube",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Isabella,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Isabella! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Seasonal trends, Vintage finds",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "mason.blogs",
+      "influencer_name": "Mason Miller",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Mason,\n\nI'm a big fan of your Designer dupes content and how you engage with your 18-24 audience.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe'd love to we think your audience would love our products, and we'd love to set you up with an affiliate partnership.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Mason! Noticed your amazing Designer dupes content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Seasonal trends",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.119521"
+    },
+    {
+      "influencer_id": "alexander242",
+      "influencer_name": "Alexander Nguyen",
+      "platform": "YouTube",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Alexander,\n\nYour OOTD posts content really caught my attention - especially your recent take on Summer capsule wardrobe essentials.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your OOTD posts content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Alexander, your OOTD posts posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: OOTD posts, Thrift hauls",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "isabella.blogs",
+      "influencer_name": "Isabella Thompson",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Isabella,\n\nI've been following your Fashion content and absolutely loved your recent post about Date night outfit ideas.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Isabella, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Sustainable fashion",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "yuki.creates",
+      "influencer_name": "Yuki Rossi",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Yuki,\n\nI've been enjoying your Fashion content, particularly your Vintage finds posts.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Yuki! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Sustainable fashion",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "olivia_official",
+      "influencer_name": "Olivia Jackson",
+      "platform": "YouTube",
+      "email_subject": "Let's Create Something Amazing Together, Olivia!",
+      "email_body": "Hi Olivia,\n\nI've been enjoying your Fashion content, particularly your Sustainable fashion posts.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Olivia, your Sustainable fashion posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, OOTD posts",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "noahxxofficial",
+      "influencer_name": "Noah Wilson",
+      "platform": "YouTube",
+      "email_subject": "StyleCraft x Noah - Potential Collaboration",
+      "email_body": "Hi Noah,\n\nI'm a big fan of your Vintage finds content and how you engage with your 18-24 audience.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nI think a affiliate campaign would be mutually beneficial - we think your audience would love our products, and we'd love to set you up with an affiliate partnership.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Noah! Love what you're doing with Vintage finds. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Budget fashion",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "alexander45",
+      "influencer_name": "Alexander Garcia",
+      "platform": "YouTube",
+      "email_subject": "Exciting Collaboration Opportunity for Alexander",
+      "email_body": "Hi Alexander,\n\nI've been enjoying your Fashion content, particularly your Vintage finds posts.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe'd love to we think your audience would love our products, and we'd love to set you up with an affiliate partnership.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Alexander! Noticed your amazing Vintage finds content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Budget fashion",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "the.liam.world",
+      "influencer_name": "Liam Rossi",
+      "platform": "YouTube",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Liam,\n\nYour Accessory styling content really caught my attention - especially your recent take on Sustainable fashion brands to try.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Liam! Your Accessory styling content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, OOTD posts",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "sarah388",
+      "influencer_name": "Sarah Anderson",
+      "platform": "YouTube",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Sarah,\n\nYour authentic approach to Fashion content, especially Thrift store haul under $50, really stands out.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Seasonal trends content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Sarah, your Seasonal trends posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Seasonal trends, Vintage finds",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "ethan.blogs",
+      "influencer_name": "Ethan Patel",
+      "platform": "YouTube",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Ethan,\n\nYour Vintage finds content really caught my attention - especially your recent take on Thrift store haul under $50.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Ethan, your Vintage finds posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Accessory styling",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "williamxxdaily",
+      "influencer_name": "William Scott",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi William,\n\nYour Accessory styling content really caught my attention - especially your recent take on Summer capsule wardrobe essentials.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi William! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "liamxdaily",
+      "influencer_name": "Liam Kim",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Liam,\n\nYour authentic approach to Fashion content, especially Date night outfit ideas, really stands out.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Liam! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, Budget fashion",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "the.zara.world",
+      "influencer_name": "Zara Clark",
+      "platform": "YouTube",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Zara,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we'd love to send you our latest collection in exchange for an honest review.\n\nWould you be interested in a product-for-content collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Zara! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "collaboration_type": "Barter collaboration",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Thrift hauls, Capsule wardrobe",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Barter collaboration"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "oliver.lifestyle",
+      "influencer_name": "Oliver Williams",
+      "platform": "YouTube",
+      "email_subject": "Exclusive Collaboration Invite for Oliver",
+      "email_body": "Hi Oliver,\n\nYour authentic approach to Fashion content, especially Sustainable fashion brands to try, really stands out.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Oliver! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Streetwear, Seasonal trends",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "mateo538",
+      "influencer_name": "Mateo Miller",
+      "platform": "TikTok",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Mateo,\n\nI've been following your Fashion content and absolutely loved your recent post about Thrift store haul under $50.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Mateo! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: OOTD posts, Sustainable fashion",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "the.sarah.world",
+      "influencer_name": "Sarah Rodriguez",
+      "platform": "TikTok",
+      "email_subject": "Exclusive Collaboration Invite for Sarah",
+      "email_body": "Hi Sarah,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Budget fashion content aligns perfectly with our vision.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Sarah! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Budget fashion, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "zara_official",
+      "influencer_name": "Zara Brown",
+      "platform": "TikTok",
+      "email_subject": "Exciting Collaboration Opportunity for Zara",
+      "email_body": "Hi Zara,\n\nYour authentic approach to Fashion content, especially Street style lookbook, really stands out.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe're looking for authentic creators like you to produce ugc content for our brand, and we think it would be a natural fit for your audience.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Zara! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, OOTD posts",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "mia_official",
+      "influencer_name": "Mia Davis",
+      "platform": "TikTok",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Mia,\n\nI've been following your Fashion content and absolutely loved your recent post about Thrift store haul under $50.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Mia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Seasonal trends",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "leo.shares",
+      "influencer_name": "Leo Rossi",
+      "platform": "TikTok",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Leo,\n\nI'm a big fan of your Streetwear content and how you engage with your 35-44 audience.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Streetwear content aligns perfectly with our vision.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Leo! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Streetwear, Sustainable fashion",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "elijahxxlife",
+      "influencer_name": "Elijah Young",
+      "platform": "TikTok",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Elijah,\n\nI've been following your Fashion content and absolutely loved your recent post about Summer capsule wardrobe essentials.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Elijah! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Thrift hauls",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "harperxxlife",
+      "influencer_name": "Harper Moore",
+      "platform": "TikTok",
+      "email_subject": "Exciting Collaboration Opportunity for Harper",
+      "email_body": "Hi Harper,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe'd love to we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Harper! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "noah.shares",
+      "influencer_name": "Noah Anderson",
+      "platform": "TikTok",
+      "email_subject": "Let's Create Something Amazing Together, Noah!",
+      "email_body": "Hi Noah,\n\nI'm a big fan of your Thrift hauls content and how you engage with your 25-44 audience.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nWe're looking for authentic creators like you to produce ugc content for our brand, and we think it would be a natural fit for your audience.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Noah, your Thrift hauls posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Thrift hauls, Streetwear",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "sofiaxofficial",
+      "influencer_name": "Sofia Fernandez",
+      "platform": "TikTok",
+      "email_subject": "StyleCraft x Sofia - Potential Collaboration",
+      "email_body": "Hi Sofia,\n\nYour authentic approach to Fashion content, especially Date night outfit ideas, really stands out.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Sustainable fashion content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Sofia! Love your Sustainable fashion content. We have an exciting collab opportunity - interested? 🙌",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Accessory styling",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "yuki118",
+      "influencer_name": "Yuki Rossi",
+      "platform": "TikTok",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Yuki,\n\nYour Vintage finds content really caught my attention - especially your recent take on Street style lookbook.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Yuki! Noticed your amazing Vintage finds content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Vintage finds, Budget fashion",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "mia_life",
+      "influencer_name": "Mia Young",
+      "platform": "TikTok",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi Mia,\n\nI'm a big fan of your Budget fashion content and how you engage with your 25-34 audience.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Budget fashion content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Mia! Your Fashion content is amazing. Would you be open to a quick chat about a collab?",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Budget fashion, OOTD posts",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "caleb_life",
+      "influencer_name": "Caleb Martinez",
+      "platform": "TikTok",
+      "email_subject": "Exclusive Collaboration Invite for Caleb",
+      "email_body": "Hi Caleb,\n\nI've been enjoying your Fashion content, particularly your Seasonal trends posts.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Seasonal trends content aligns perfectly with our vision.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Caleb! Noticed your amazing Seasonal trends content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Seasonal trends, Designer dupes",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "leo.blogs",
+      "influencer_name": "Leo Thomas",
+      "platform": "TikTok",
+      "email_subject": "Exclusive Collaboration Invite for Leo",
+      "email_body": "Hi Leo,\n\nI've been enjoying your Fashion content, particularly your Capsule wardrobe posts.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Leo! Love your Capsule wardrobe content. We have an exciting collab opportunity - interested? 🙌",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Seasonal trends",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "olivia_life",
+      "influencer_name": "Olivia Lee",
+      "platform": "TikTok",
+      "email_subject": "Partnership Inquiry - StyleCraft x Olivia",
+      "email_body": "Hi Olivia,\n\nI've been following your Fashion content and absolutely loved your recent post about Sustainable fashion brands to try.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Designer dupes content aligns perfectly with our vision.\n\nI think a sponsorship would be mutually beneficial - we'd love to partner with you for a sponsored campaign that aligns with your content style.\n\nWould you be open to discussing a sponsored collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Olivia! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "Sponsorship",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Accessory styling",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Sponsorship"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "alexander.blogs",
+      "influencer_name": "Alexander Nguyen",
+      "platform": "TikTok",
+      "email_subject": "Partnership Inquiry - StyleCraft x Alexander",
+      "email_body": "Hi Alexander,\n\nI've been following your Fashion content and absolutely loved your recent post about Sustainable fashion brands to try.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Budget fashion content aligns perfectly with our vision.\n\nWe'd love to we'd love to send you our latest collection in exchange for an honest review.\n\nWould you be interested in a product-for-content collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Alexander! Love what you're doing with Budget fashion. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Barter collaboration",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Budget fashion, Seasonal trends",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Barter collaboration"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "sebastian_world",
+      "influencer_name": "Sebastian Scott",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Sebastian,\n\nI'm a big fan of your Streetwear content and how you engage with your 18-24 audience.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Sebastian! Noticed your amazing Streetwear content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Streetwear, Capsule wardrobe",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "noah_life",
+      "influencer_name": "Noah Harris",
+      "platform": "Instagram",
+      "email_subject": "Your Fashion Content Caught Our Eye - Partnership Opportunity",
+      "email_body": "Hi Noah,\n\nI've been following your Fashion content and absolutely loved your recent post about Sustainable fashion brands to try.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nWe think your audience would love our products, and we'd love to set you up with an affiliate partnership, and we think it would be a natural fit for your audience.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Noah! Noticed your amazing Sustainable fashion content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Thrift hauls",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "olivia.lifestyle",
+      "influencer_name": "Olivia Williams",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft Loves Your Content - Let's Partner!",
+      "email_body": "Hi Olivia,\n\nI've been enjoying your Fashion content, particularly your Sustainable fashion posts.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe'd love to we'd love to partner with you for a sponsored campaign that aligns with your content style.\n\nWould you be open to discussing a sponsored collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Olivia! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "Sponsorship",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Seasonal trends",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Sponsorship"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "sarah.creates",
+      "influencer_name": "Sarah Jackson",
+      "platform": "Instagram",
+      "email_subject": "Partnership Inquiry - StyleCraft x Sarah",
+      "email_body": "Hi Sarah,\n\nI've been enjoying your Fashion content, particularly your Sustainable fashion posts.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nWe're building a community of brand ambassadors and your content perfectly represents what we stand for, and we think it would be a natural fit for your audience.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Sarah! Your Sustainable fashion content really stands out. Interested in a brand partnership? Let me know! 😊",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Sustainable fashion, Vintage finds",
+        "Referenced recent content: Sustainable fashion brands to try",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "oliver389",
+      "influencer_name": "Oliver Jones",
+      "platform": "Instagram",
+      "email_subject": "Let's Create Something Amazing Together, Oliver!",
+      "email_body": "Hi Oliver,\n\nYour Capsule wardrobe content really caught my attention - especially your recent take on Thrift store haul under $50.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Oliver! Big fan of your Fashion content. Got a collab idea - mind if I share?",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Sustainable fashion",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "leila971",
+      "influencer_name": "Leila Jones",
+      "platform": "Instagram",
+      "email_subject": "Partnership Inquiry - StyleCraft x Leila",
+      "email_body": "Hi Leila,\n\nYour authentic approach to Fashion content, especially Summer capsule wardrobe essentials, really stands out.\n\nAs a fashion & beauty brand, we've been looking for creators who genuinely understand their audience - and you do.\n\nI think a ugc content creation would be mutually beneficial - we're looking for authentic creators like you to produce UGC content for our brand.\n\nWould you be interested in a UGC creation opportunity?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hey Leila! Your Fashion content is exactly what we're looking for. Collab? Let me know! 😊",
+      "collaboration_type": "UGC content creation",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Streetwear, Budget fashion",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: UGC content creation"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "james_daily",
+      "influencer_name": "James Scott",
+      "platform": "Instagram",
+      "email_subject": "Collaboration Opportunity with StyleCraft - Let's Create Together!",
+      "email_body": "Hi James,\n\nYour authentic approach to Fashion content, especially Street style lookbook, really stands out.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "James, your Capsule wardrobe posts are fire! We'd love to work with you on something cool 🔥",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Capsule wardrobe, Designer dupes",
+        "Referenced recent content: Street style lookbook",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 95,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "the.charlotte.space",
+      "influencer_name": "Charlotte Rodriguez",
+      "platform": "Instagram",
+      "email_subject": "StyleCraft x Charlotte - Potential Collaboration",
+      "email_body": "Hi Charlotte,\n\nI'm a big fan of your Accessory styling content and how you engage with your 25-34 audience.\n\nAt StyleCraft, we're passionate about fashion & beauty and believe your content style would be perfect for our brand.\n\nI think a brand ambassador program would be mutually beneficial - we're building a community of brand ambassadors and your content perfectly represents what we stand for.\n\nWould you like to learn more about our ambassador program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Charlotte! Love what you're doing with Accessory styling. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Brand ambassador program",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Accessory styling, Vintage finds",
+        "Referenced recent content: Thrift store haul under $50",
+        "Collaboration type: Brand ambassador program"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "amelia_vibes",
+      "influencer_name": "Amelia Martinez",
+      "platform": "Instagram",
+      "email_subject": "Exciting Collaboration Opportunity for Amelia",
+      "email_body": "Hi Amelia,\n\nYour Designer dupes content really caught my attention - especially your recent take on Summer capsule wardrobe essentials.\n\nWe're StyleCraft, a fashion & beauty brand, and we think your Designer dupes content aligns perfectly with our vision.\n\nI think a barter collaboration would be mutually beneficial - we'd love to send you our latest collection in exchange for an honest review.\n\nWould you be interested in a product-for-content collaboration?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Amelia! Love what you're doing with Designer dupes. We have an exciting opportunity for you ✨",
+      "collaboration_type": "Barter collaboration",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Designer dupes, Streetwear",
+        "Referenced recent content: Summer capsule wardrobe essentials",
+        "Collaboration type: Barter collaboration"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    },
+    {
+      "influencer_id": "ethan_vibes",
+      "influencer_name": "Ethan Harris",
+      "platform": "Instagram",
+      "email_subject": "Let's Create Something Amazing Together, Ethan!",
+      "email_body": "Hi Ethan,\n\nI'm a big fan of your Seasonal trends content and how you engage with your 25-44 audience.\n\nWe believe your Fashion expertise and engaged community would love what we're building at StyleCraft.\n\nI think a affiliate campaign would be mutually beneficial - we think your audience would love our products, and we'd love to set you up with an affiliate partnership.\n\nInterested in joining our affiliate program?\n\nLooking forward to hearing from you!\n\nBest,\nThe StyleCraft Team",
+      "dm_message": "Hi Ethan! Noticed your amazing Seasonal trends content. Would love to partner up! Let me know! 😊",
+      "collaboration_type": "Affiliate campaign",
+      "personalization_signals": [
+        "Referenced niche: Fashion",
+        "Referenced content themes: Seasonal trends, Budget fashion",
+        "Referenced recent content: Date night outfit ideas",
+        "Collaboration type: Affiliate campaign"
+      ],
+      "quality_score": 100,
+      "timestamp": "2026-08-20T10:26:22.120459"
+    }
+  ]
+}
